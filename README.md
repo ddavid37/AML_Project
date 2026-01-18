@@ -66,8 +66,3 @@ Across all models, **stress level**, **daily steps**, **sleep duration**, and **
 If you use this repository or its findings in your work, please cite:
 
 > Daniel David, Zhangjing Cheng, Cooper Orio, Yuxuan Chen. *Using Machine Learning for Predicting Sleep Health & Lifestyle Patterns*. Columbia University, 2025.
-
----
-
-
-
